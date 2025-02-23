@@ -1,0 +1,545 @@
+2025-02-22 15:27:10:2710 [32minfo[39m: [32mDatabase connected successfully[39m
+2025-02-22 15:27:10:2710 [32minfo[39m: [32mServer running at http://localhost:3000 in development mode[39m
+2025-02-22 15:29:22:2922 [32minfo[39m: [32mDatabase connected successfully[39m
+2025-02-22 15:29:22:2922 [32minfo[39m: [32mServer running at http://localhost:3000 in development mode[39m
+2025-02-22 15:29:30:2930 [32minfo[39m: [32mDatabase connected successfully[39m
+2025-02-22 15:29:31:2931 [32minfo[39m: [32mServer running at http://localhost:3000 in development mode[39m
+2025-02-22 15:31:30:3130 [32minfo[39m: [32mDatabase connected successfully[39m
+2025-02-22 15:31:30:3130 [32minfo[39m: [32mServer running at http://localhost:3000 in development mode[39m
+2025-02-22 15:31:48:3148 [32minfo[39m: [32mDatabase connected successfully[39m
+2025-02-22 15:31:48:3148 [32minfo[39m: [32mServer running at http://localhost:3000 in development mode[39m
+2025-02-22 15:31:56:3156 [32minfo[39m: [32mDatabase disconnected successfully[39m
+2025-02-23 01:37:02:372 [32minfo[39m: [32mDatabase connected successfully[39m
+2025-02-23 01:37:02:372 [32minfo[39m: [32mServer running at http://localhost:3000 in development mode[39m
+2025-02-23 01:39:00:390 [32minfo[39m: [32mDatabase disconnected successfully[39m
+2025-02-23 01:40:06:406 [32minfo[39m: [32mDatabase connected successfully[39m
+2025-02-23 01:40:06:406 [32minfo[39m: [32mServer running at http://localhost:3000 in development mode[39m
+2025-02-23 01:41:21:4121 [32minfo[39m: [32mDatabase connected successfully[39m
+2025-02-23 01:41:21:4121 [32minfo[39m: [32mServer running at http://localhost:3000 in development mode[39m
+2025-02-23 01:41:47:4147 [32minfo[39m: [32mDatabase connected successfully[39m
+2025-02-23 01:41:47:4147 [32minfo[39m: [32mServer running at http://localhost:3000 in development mode[39m
+2025-02-23 01:41:47:4147 [31merror[39m: [31mFailed to fetch and update currency rates[39m
+2025-02-23 01:42:26:4226 [32minfo[39m: [32mDatabase connected successfully[39m
+2025-02-23 01:42:26:4226 [32minfo[39m: [32mServer running at http://localhost:3000 in development mode[39m
+2025-02-23 01:42:26:4226 [31merror[39m: [31mFailed to fetch and update currency rates[39m
+2025-02-23 01:45:40:4540 [32minfo[39m: [32mDatabase connected successfully[39m
+2025-02-23 01:45:40:4540 [32minfo[39m: [32mServer running at http://localhost:3000 in development mode[39m
+2025-02-23 01:45:40:4540 [31merror[39m: [31mFailed to fetch and update currency rates[39m
+2025-02-23 01:47:46:4746 [32minfo[39m: [32mDatabase connected successfully[39m
+2025-02-23 01:47:46:4746 [32minfo[39m: [32mServer running at http://localhost:3000 in development mode[39m
+2025-02-23 01:47:48:4748 [32minfo[39m: [32mCurrency rates updated successfully[39m
+2025-02-23 01:52:31:5231 [32minfo[39m: [32mDatabase disconnected successfully[39m
+2025-02-23 01:57:10:5710 [32minfo[39m: [32mDatabase connected successfully[39m
+2025-02-23 01:57:10:5710 [32minfo[39m: [32mServer running at http://localhost:3000 in development mode[39m
+2025-02-23 01:58:35:5835 [32minfo[39m: [32mDatabase connected successfully[39m
+2025-02-23 01:58:35:5835 [32minfo[39m: [32mServer running at http://localhost:3000 in development mode[39m
+2025-02-23 01:59:22:5922 [32minfo[39m: [32mDatabase connected successfully[39m
+2025-02-23 01:59:22:5922 [32minfo[39m: [32mServer running at http://localhost:3000 in development mode[39m
+2025-02-23 02:00:00:00 [32minfo[39m: [32mRunning scheduled currency rates update...[39m
+2025-02-23 02:00:04:04 [32minfo[39m: [32mCurrency rates updated successfully[39m
+2025-02-23 02:00:04:04 [32minfo[39m: [32mCurrency rates updated successfully via cron job[39m
+2025-02-23 02:02:53:253 [32minfo[39m: [32mDatabase connected successfully[39m
+2025-02-23 02:02:53:253 [32minfo[39m: [32mServer running at http://localhost:3000 in development mode[39m
+2025-02-23 02:03:47:347 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 02:04:31:431 [35mhttp[39m: [35mGET/api/currencies/USD[39m
+2025-02-23 02:04:52:452 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 02:08:04:84 [32minfo[39m: [32mDatabase disconnected successfully[39m
+2025-02-23 12:16:21:1621 [32minfo[39m: [32mDatabase connected successfully[39m
+2025-02-23 12:16:21:1621 [32minfo[39m: [32mServer running at http://localhost:3000 in development mode[39m
+2025-02-23 12:17:02:172 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 12:17:59:1759 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 12:18:30:1830 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 12:18:33:1833 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 12:20:11:2011 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 12:20:11:2011 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 12:20:13:2013 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 12:21:07:217 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 12:21:10:2110 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 12:21:25:2125 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 12:29:45:2945 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 12:29:52:2952 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 12:30:11:3011 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 12:30:19:3019 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 12:30:21:3021 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 12:30:30:3030 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 12:44:44:4444 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 12:45:31:4531 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 12:45:32:4532 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 12:48:21:4821 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 12:48:22:4822 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 12:48:24:4824 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 12:48:38:4838 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 12:48:41:4841 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 12:48:51:4851 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 12:55:26:5526 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 13:06:56:656 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 13:06:58:658 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 13:06:58:658 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 13:06:59:659 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 13:07:00:70 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 13:07:04:74 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:07:04:74 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:07:04:74 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:08:01:81 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 13:08:03:83 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 13:08:07:87 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 13:51:16:5116 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 13:51:16:5116 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 13:57:27:5727 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 13:57:51:5751 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 13:57:54:5754 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 13:58:01:581 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:01:581 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:01:581 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:03:583 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:03:583 [31merror[39m: [31mFailed to convert currency[39m
+2025-02-23 13:58:03:583 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:03:583 [31merror[39m: [31mFailed to convert currency[39m
+2025-02-23 13:58:03:583 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:03:583 [31merror[39m: [31mFailed to convert currency[39m
+2025-02-23 13:58:03:583 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:03:583 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:03:583 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:04:584 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:04:584 [31merror[39m: [31mFailed to convert currency[39m
+2025-02-23 13:58:04:584 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:04:584 [31merror[39m: [31mFailed to convert currency[39m
+2025-02-23 13:58:04:584 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:04:584 [31merror[39m: [31mFailed to convert currency[39m
+2025-02-23 13:58:05:585 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:05:585 [31merror[39m: [31mFailed to convert currency[39m
+2025-02-23 13:58:05:585 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:05:585 [31merror[39m: [31mFailed to convert currency[39m
+2025-02-23 13:58:05:585 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:05:585 [31merror[39m: [31mFailed to convert currency[39m
+2025-02-23 13:58:05:585 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:05:585 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:05:585 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:05:585 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:05:585 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:05:585 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:07:587 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:07:587 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:07:587 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:09:589 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:09:589 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:09:589 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:10:5810 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:10:5810 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:10:5810 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:13:5813 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:13:5813 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:13:5813 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:15:5815 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:15:5815 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:15:5815 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:17:5817 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:17:5817 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:17:5817 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:17:5817 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:17:5817 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:17:5817 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:17:5817 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:17:5817 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:17:5817 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:17:5817 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:17:5817 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:17:5817 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:17:5817 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:17:5817 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:17:5817 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:19:5819 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:19:5819 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:19:5819 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:20:5820 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:20:5820 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:20:5820 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:20:5820 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:20:5820 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:20:5820 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:20:5820 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:20:5820 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:20:5820 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:20:5820 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:20:5820 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:20:5820 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:20:5820 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:20:5820 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:20:5820 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:20:5820 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:20:5820 [31merror[39m: [31mFailed to convert currency[39m
+2025-02-23 13:58:20:5820 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:20:5820 [31merror[39m: [31mFailed to convert currency[39m
+2025-02-23 13:58:20:5820 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:20:5820 [31merror[39m: [31mFailed to convert currency[39m
+2025-02-23 13:58:20:5820 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:20:5820 [31merror[39m: [31mFailed to convert currency[39m
+2025-02-23 13:58:20:5820 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:20:5820 [31merror[39m: [31mFailed to convert currency[39m
+2025-02-23 13:58:20:5820 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:20:5820 [31merror[39m: [31mFailed to convert currency[39m
+2025-02-23 13:58:20:5820 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:20:5820 [31merror[39m: [31mFailed to convert currency[39m
+2025-02-23 13:58:20:5820 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:20:5820 [31merror[39m: [31mFailed to convert currency[39m
+2025-02-23 13:58:20:5820 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:20:5820 [31merror[39m: [31mFailed to convert currency[39m
+2025-02-23 13:58:20:5820 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:20:5820 [31merror[39m: [31mFailed to convert currency[39m
+2025-02-23 13:58:20:5820 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:20:5820 [31merror[39m: [31mFailed to convert currency[39m
+2025-02-23 13:58:20:5820 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:20:5820 [31merror[39m: [31mFailed to convert currency[39m
+2025-02-23 13:58:20:5820 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:20:5820 [31merror[39m: [31mFailed to convert currency[39m
+2025-02-23 13:58:20:5820 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:20:5820 [31merror[39m: [31mFailed to convert currency[39m
+2025-02-23 13:58:20:5820 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:20:5820 [31merror[39m: [31mFailed to convert currency[39m
+2025-02-23 13:58:20:5820 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:20:5820 [31merror[39m: [31mFailed to convert currency[39m
+2025-02-23 13:58:20:5820 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:20:5820 [31merror[39m: [31mFailed to convert currency[39m
+2025-02-23 13:58:20:5820 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:20:5820 [31merror[39m: [31mFailed to convert currency[39m
+2025-02-23 13:58:23:5823 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:23:5823 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:23:5823 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:24:5824 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:24:5824 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:24:5824 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:25:5825 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:25:5825 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:58:25:5825 [35mhttp[39m: [35mPOST/api/convert[39m
+2025-02-23 13:59:06:596 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 13:59:07:597 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 13:59:09:599 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 13:59:13:5913 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 13:59:28:5928 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 13:59:29:5929 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 13:59:31:5931 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 13:59:35:5935 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 14:00:00:00 [32minfo[39m: [32mRunning scheduled currency rates update...[39m
+2025-02-23 14:00:02:02 [32minfo[39m: [32mCurrency rates updated successfully[39m
+2025-02-23 14:00:02:02 [32minfo[39m: [32mCurrency rates updated successfully via cron job[39m
+2025-02-23 14:01:19:119 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 14:01:20:120 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 14:01:22:122 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 14:01:26:126 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 14:13:57:1357 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 14:29:21:2921 [32minfo[39m: [32mDatabase disconnected successfully[39m
+2025-02-23 15:03:36:336 [32minfo[39m: [32mDatabase connected successfully[39m
+2025-02-23 15:03:36:336 [32minfo[39m: [32mServer running at http://localhost:3000 in development mode[39m
+2025-02-23 15:04:07:47 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 15:04:55:455 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 15:05:00:50 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 15:05:01:51 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 15:05:40:540 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 15:05:40:540 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 15:05:44:544 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 15:05:47:547 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 15:16:45:1645 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 15:19:15:1915 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 15:50:12:5012 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 15:50:12:5012 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 15:50:13:5013 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 15:50:13:5013 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 15:50:42:5042 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 15:50:42:5042 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 15:51:38:5138 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 15:51:38:5138 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 15:51:41:5141 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 15:51:41:5141 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 15:54:00:540 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 15:54:00:540 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 15:57:57:5757 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 15:57:57:5757 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 16:00:00:00 [32minfo[39m: [32mRunning scheduled currency rates update...[39m
+2025-02-23 16:00:02:02 [32minfo[39m: [32mCurrency rates updated successfully[39m
+2025-02-23 16:00:02:02 [32minfo[39m: [32mCurrency rates updated successfully via cron job[39m
+2025-02-23 16:02:44:244 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 16:02:44:244 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 16:03:35:335 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 16:03:35:335 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 16:07:02:72 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 16:07:02:72 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 16:07:03:73 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:07:09:79 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:07:11:711 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:07:12:712 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:07:47:747 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:07:50:750 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:07:51:751 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:07:52:752 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:07:54:754 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:08:03:83 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:08:17:817 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:18:43:1843 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 16:18:43:1843 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 16:18:44:1844 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 16:18:44:1844 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 16:19:12:1912 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 16:19:12:1912 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 16:19:13:1913 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 16:19:13:1913 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 16:20:00:200 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 16:20:00:200 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 16:21:03:213 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 16:21:03:213 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 16:22:01:221 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:22:03:223 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:22:04:224 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:22:05:225 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:22:06:226 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:22:06:226 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:22:07:227 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:22:07:227 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:22:07:227 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:22:07:227 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:22:07:227 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:22:07:227 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:22:07:227 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:22:07:227 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:22:07:227 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:22:07:227 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:22:07:227 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:22:10:2210 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:22:13:2213 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:22:14:2214 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:22:16:2216 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:22:21:2221 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:22:22:2222 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:23:14:2314 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 16:23:14:2314 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 16:24:07:247 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 16:24:07:247 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 16:24:08:248 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:24:08:248 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:24:09:249 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:24:09:249 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:24:09:249 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:24:09:249 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:24:09:249 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:24:09:249 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:24:10:2410 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:24:12:2412 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:26:45:2645 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 16:26:45:2645 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 16:26:46:2646 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:26:47:2647 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:26:47:2647 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:26:47:2647 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:26:47:2647 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:26:48:2648 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:26:48:2648 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:26:48:2648 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:26:50:2650 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:27:10:2710 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:27:10:2710 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 16:27:10:2710 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 16:27:11:2711 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:27:12:2712 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:27:13:2713 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:27:14:2714 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:27:15:2715 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:27:16:2716 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:27:19:2719 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:27:19:2719 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:27:22:2722 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:27:23:2723 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:28:25:2825 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 16:28:25:2825 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 16:28:27:2827 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:28:29:2829 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:28:30:2830 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:28:30:2830 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:28:31:2831 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:28:32:2832 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:28:34:2834 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 16:30:38:3038 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 16:30:38:3038 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 16:45:55:4555 [32minfo[39m: [32mDatabase disconnected successfully[39m
+2025-02-23 17:11:39:1139 [32minfo[39m: [32mDatabase connected successfully[39m
+2025-02-23 17:11:39:1139 [32minfo[39m: [32mServer running at http://localhost:3000 in development mode[39m
+2025-02-23 17:11:53:1153 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 17:11:53:1153 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 17:12:15:1215 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 17:12:42:1242 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 17:12:42:1242 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 17:13:24:1324 [32minfo[39m: [32mDatabase disconnected successfully[39m
+2025-02-23 17:15:39:1539 [32minfo[39m: [32mDatabase connected successfully[39m
+2025-02-23 17:15:39:1539 [32minfo[39m: [32mServer running at http://localhost:3000 in development mode[39m
+2025-02-23 17:15:50:1550 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 17:15:50:1550 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 17:16:09:169 [32minfo[39m: [32mDatabase connected successfully[39m
+2025-02-23 17:16:09:169 [32minfo[39m: [32mServer running at http://localhost:3000 in development mode[39m
+2025-02-23 17:16:11:1611 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 17:16:11:1611 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 17:16:28:1628 [32minfo[39m: [32mDatabase connected successfully[39m
+2025-02-23 17:16:28:1628 [32minfo[39m: [32mServer running at http://localhost:3000 in development mode[39m
+2025-02-23 17:16:40:1640 [32minfo[39m: [32mDatabase disconnected successfully[39m
+2025-02-23 17:50:03:503 [32minfo[39m: [32mDatabase connected successfully[39m
+2025-02-23 17:50:03:503 [32minfo[39m: [32mServer running at http://localhost:3000 in development mode[39m
+2025-02-23 17:50:03:503 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 17:50:03:503 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 17:50:39:5039 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 17:50:44:5044 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 17:50:44:5044 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 17:50:47:5047 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 17:50:50:5050 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 17:50:50:5050 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 17:57:59:5759 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 17:57:59:5759 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 17:59:06:596 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 17:59:06:596 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 17:59:13:5913 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 17:59:16:5916 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 17:59:16:5916 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 17:59:19:5919 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 17:59:29:5929 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 17:59:29:5929 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 17:59:31:5931 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 18:00:00:00 [32minfo[39m: [32mRunning scheduled currency rates update...[39m
+2025-02-23 18:00:01:01 [32minfo[39m: [32mCurrency rates updated successfully[39m
+2025-02-23 18:00:01:01 [32minfo[39m: [32mCurrency rates updated successfully via cron job[39m
+2025-02-23 18:16:18:1618 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 18:17:26:1726 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 18:18:48:1848 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 18:19:45:1945 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 18:19:45:1945 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 18:19:54:1954 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 18:20:02:202 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 18:20:02:202 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 18:20:03:203 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 18:43:29:4329 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 18:51:41:5141 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 18:51:42:5142 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 18:51:42:5142 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 18:51:44:5144 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 18:51:44:5144 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 18:51:46:5146 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 18:51:47:5147 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 18:51:47:5147 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 18:52:47:5247 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 18:52:50:5250 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 18:53:00:530 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 18:53:02:532 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 18:53:03:533 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 18:53:17:5317 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 18:53:17:5317 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 18:53:47:5347 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 18:53:47:5347 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 18:56:07:567 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 18:56:07:567 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 18:56:07:567 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 18:56:09:569 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 18:56:09:569 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 18:56:09:569 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 18:56:28:5628 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 18:56:28:5628 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:01:28:128 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:01:28:128 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:03:42:342 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:03:42:342 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:03:43:343 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:03:48:348 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:03:48:348 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:03:49:349 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:03:50:350 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:03:50:350 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:06:57:657 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:06:57:657 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:06:58:658 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:07:02:72 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:07:02:72 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:07:03:73 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:07:22:722 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:07:35:735 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:07:35:735 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:07:37:737 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:07:55:755 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:08:22:822 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:10:22:1022 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:11:11:1111 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:11:17:1117 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:11:22:1122 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:11:22:1122 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:11:23:1123 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:11:25:1125 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:11:25:1125 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:11:26:1126 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:11:29:1129 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:12:26:1226 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:12:31:1231 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:13:05:135 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:23:21:2321 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:23:25:2325 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:23:31:2331 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:23:31:2331 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:23:32:2332 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:23:34:2334 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:24:19:2419 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:25:03:253 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:28:43:2843 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:28:45:2845 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:28:45:2845 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:31:28:3128 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:31:28:3128 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:33:38:3338 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:34:39:3439 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:35:35:3535 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:35:37:3537 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:36:12:3612 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:36:14:3614 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:36:16:3616 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:36:16:3616 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:37:06:376 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 19:37:08:378 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 19:37:10:3710 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 19:37:11:3711 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 19:37:11:3711 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 19:37:11:3711 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 19:37:12:3712 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 19:37:12:3712 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 19:37:12:3712 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 19:37:13:3713 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 19:37:14:3714 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 19:37:14:3714 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 19:37:14:3714 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 19:37:19:3719 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:39:02:392 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:39:02:392 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:41:40:4140 [32minfo[39m: [32mDatabase connected successfully[39m
+2025-02-23 19:41:40:4140 [32minfo[39m: [32mServer running at http://localhost:3000 in development mode[39m
+2025-02-23 19:41:45:4145 [32minfo[39m: [32mDatabase connected successfully[39m
+2025-02-23 19:41:45:4145 [32minfo[39m: [32mServer running at http://localhost:3000 in development mode[39m
+2025-02-23 19:42:51:4251 [32minfo[39m: [32mDatabase connected successfully[39m
+2025-02-23 19:42:51:4251 [32minfo[39m: [32mServer running at http://localhost:3000 in development mode[39m
+2025-02-23 19:45:24:4524 [32minfo[39m: [32mDatabase connected successfully[39m
+2025-02-23 19:45:24:4524 [32minfo[39m: [32mServer running at http://localhost:3000 in development mode[39m
+2025-02-23 19:45:30:4530 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:45:30:4530 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:45:31:4531 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 19:45:31:4531 [31merror[39m: [31mBatch conversion failed[39m
+2025-02-23 19:45:56:4556 [32minfo[39m: [32mDatabase connected successfully[39m
+2025-02-23 19:45:56:4556 [32minfo[39m: [32mServer running at http://localhost:3000 in development mode[39m
+2025-02-23 19:49:11:4911 [32minfo[39m: [32mDatabase connected successfully[39m
+2025-02-23 19:49:11:4911 [32minfo[39m: [32mServer running at http://localhost:3000 in development mode[39m
+2025-02-23 19:49:55:4955 [32minfo[39m: [32mDatabase connected successfully[39m
+2025-02-23 19:49:55:4955 [32minfo[39m: [32mServer running at http://localhost:3000 in development mode[39m
+2025-02-23 19:51:30:5130 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:51:30:5130 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:51:32:5132 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 19:51:34:5134 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 19:51:41:5141 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 19:52:06:526 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:52:06:526 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 19:52:06:526 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:54:44:5444 [32minfo[39m: [32mDatabase connected successfully[39m
+2025-02-23 19:54:44:5444 [32minfo[39m: [32mServer running at http://localhost:3000 in development mode[39m
+2025-02-23 19:55:34:5534 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 19:55:34:5534 [35mhttp[39m: [35mPOST/api/convert-all[39m
+2025-02-23 19:55:36:5536 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:55:43:5543 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:55:43:5543 [35mhttp[39m: [35mGET/api/currencies[39m
+2025-02-23 19:55:48:5548 [32minfo[39m: [32mDatabase disconnected successfully[39m
