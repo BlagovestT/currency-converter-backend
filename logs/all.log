@@ -547,3 +547,7 @@
 2025-02-24 00:46:33:4633 [32minfo[39m: [32mServer running at http://localhost:3000 in development mode[39m
 2025-02-24 00:46:40:4640 [35mhttp[39m: [35mGET/[39m
 2025-02-24 00:46:59:4659 [32minfo[39m: [32mDatabase disconnected successfully[39m
+2025-02-24 00:59:13:5913 [31merror[39m: [31mDatabase connection failed[39m
+2025-02-24 01:16:44:1644 [32minfo[39m: [32mDatabase connected successfully[39m
+2025-02-24 01:16:44:1644 [32minfo[39m: [32mServer running at http://localhost:3000 in development mode[39m
+2025-02-24 01:20:43:2043 [32minfo[39m: [32mDatabase disconnected successfully[39m
