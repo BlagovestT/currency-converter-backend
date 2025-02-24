@@ -36,3 +36,7 @@ This is the backend for the **Currency Converter** application. It provides APIs
 5. **Install Dependencies**: npm install
 6. **Run Prisma Migration**: npx prisma migrate dev --name init
 7. **Start the server**: node index.ts
+
+### Live Demo
+
+1. **Backend**: https://currencies-converter-api-0878165f71a0.herokuapp.com/api/currencies
